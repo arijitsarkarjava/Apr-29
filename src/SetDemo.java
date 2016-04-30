@@ -30,4 +30,9 @@ public class SetDemo {
   public static void printBool(boolean bool){
 	System.out.println(bool);
   }
+
+    public static void printDouble(double deci) { 
+		System.out.println(deci);
+	}
+
 } 
