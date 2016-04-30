@@ -22,10 +22,14 @@ public class SetDemo {
      }
      catch(Exception e){}
   }
+  
+    public static void printMethod(String stringName){
+	System.out.println(stringName);
+	}
 
     public static void printNumber(int num){
 	System.out.println(num);
-  }
+	}
   
   public static void printBool(boolean bool){
 	System.out.println(bool);
