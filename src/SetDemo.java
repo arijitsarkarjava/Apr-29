@@ -24,7 +24,7 @@ public class SetDemo {
   }
   
   public static void printMethod(String stringName){
-	  System.out.println(stringName);
+	System.out.println(stringName);
   }
   
 } 
