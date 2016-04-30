@@ -22,4 +22,8 @@ public class SetDemo {
      }
      catch(Exception e){}
   }
+
+    public static void printNumber(int num){
+	System.out.println(num);
+  }
 } 
